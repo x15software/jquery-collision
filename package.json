@@ -1,0 +1,22 @@
+{
+  "name": "jquery-collision",
+  "version": "1.0.0",
+  "description": "JQuery extension to return the collisions between two selectors.",
+  "main": "js/jquery-collision.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x15software/jquery-collision.git"
+  },
+  "author": "Sean Cusack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x15software/jquery-collision/issues"
+  },
+  "homepage": "https://github.com/x15software/jquery-collision#readme"
+}
